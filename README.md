@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on embedded system programming
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me: mertkull@outlook.com.tr
 
 <!--
 **eng-eee/eng-eee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
