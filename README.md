@@ -7,4 +7,4 @@
 - I'm learning script languages i.e. bash,python.
   
 ## How to reach me:
-- If you have a question for me, you can reach using fallowing link: [mail](mertkull@outlook.com.tr) | [linkedin](https://www.linkedin.com/in/mert-kul-/)
+- If you have a question for me, you can reach using following link: [mail](mertkull@outlook.com.tr) | [linkedin](https://www.linkedin.com/in/mert-kul-/)
